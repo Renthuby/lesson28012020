@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KuteginFragmenti</string>
+    <string name="buttonb">ButtonB</string>
+    <string name="buttona">ButtonA</string>
+    <string name="select_2">Select 2</string>
+    <string name="select_1">Select 1</string>
+</resources>
